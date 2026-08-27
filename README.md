@@ -40,11 +40,9 @@ README 中可使用下面的布局：
 
 <p align="center">
   <img src="assets/home.png" width="30%" alt="首页">
-  <img src="assets/article-list.png" width="30%" alt="文章列表">
-  <img src="assets/reader.png" width="30%" alt="文章阅读器">
+  <img src="assets/article-list.jpg" width="30%" alt="文章列表">
+  <img src="assets/reader.jpg" width="30%" alt="文章阅读器">
 </p>
-
-> 如果暂时没有三张截图，可以先删除不存在的图片引用，避免 README 出现加载失败图标。
 
 ---
 
