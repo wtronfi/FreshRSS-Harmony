@@ -27,15 +27,6 @@
 
 ## 应用截图
 
-建议将截图放在仓库根目录的 `assets/` 文件夹中，例如：
-
-```text
-assets/
-├── home.png
-├── article-list.png
-└── reader.png
-```
-
 README 中可使用下面的布局：
 
 <p align="center">
@@ -43,8 +34,6 @@ README 中可使用下面的布局：
   <img src="assets/article-list.jpg" width="30%" alt="文章列表">
   <img src="assets/reader.jpg" width="30%" alt="文章阅读器">
 </p>
-
----
 
 ## 主要功能
 
