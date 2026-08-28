@@ -9,9 +9,9 @@
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="250">
-  <img src="screenshots/article.jpg" width="250">
-  <img src="screenshots/settings.jpg" width="250">
+  <img src="assets/home.png" width="250">
+  <img src="assets/article-list.jpg" width="250">
+  <img src="assets/reader.jpg" width="250">
 </p>
 
 ---
