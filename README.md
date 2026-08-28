@@ -106,6 +106,7 @@ https://github.com/FreshRSS/FreshRSS
 
 ## 开源说明
 
-本项目主要用于个人学习、研究和自用场景。
+本仓库用于项目展示和版本发布。
 
-欢迎 HarmonyOS 与 FreshRSS 用户交流改进。
+当前主要提供 HarmonyOS 安装包下载，
+源码暂未公开。
